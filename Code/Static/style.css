@@ -1,0 +1,115 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two&family=Poppins:ital,wght@0,400;0,600;1,100&family=Roboto:wght@100&display=swap');
+
+*{
+    margin: 0!important;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: #DCD6B6;
+}
+
+
+
+  .video-container {
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  }
+  
+  .video-container video {
+    position: absolute;
+    top: 0;
+    left: -1em;
+    width: 100%;
+  
+    overflow: none;
+  }
+  #left{
+  
+    
+height: 55rem!important;
+  }
+
+  h1{
+    font-family: 'Lobster', cursive;
+
+  }
+  h2,h4,h5,h6{
+    font-family: 'Poppins', sans-serif;
+  }
+  h6{
+    font-size: 1rem;
+  }
+  h5{
+    line-height: 2.2rem;
+   
+    
+   
+  }
+  .card{
+    border-radius: 0px 24px 0px 0px;
+    color: white;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  a:hover{
+    text-decoration: none;
+    color: white;
+  }
+  p{
+    font-family: 'Roboto', sans-serif;
+  }
+  #bottom{
+    background-color: azure;
+    height: 45rem!important;
+  }
+
+  .form-select ,select {
+    background: #FFFFFF;
+border: 2px solid #000000;
+box-shadow: 1px 4px 1px #000000;
+border-radius: 13px;
+  }
+  
+  .card-body{
+    background-image: url("https://images.pexels.com/photos/6044198/pexels-photo-6044198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  }
+a{
+  text-decoration: none!important;
+  color: black;
+}
+  
+.container-fluid {
+        --bs-gutter-x: 0!important;
+      }
+  
+
+      /* .dd{
+       
+        font-family: 'Poppins';
+        margin-top: 12rem!important;
+        color: rgb(255, 0, 0);
+        font-size: 7rem;
+      } */
+        /* transform: scale(3, 5); */
+       /* line-height: 7rem; */
+  /* font-size: 70px; */
+	
+
+      
+   
+      
+      .dis h1,h2{
+       font-size: 5rem;
+           font-family: 'Lobster', cursive;
+
+      }
+
+      /*drop*/
+
+      
