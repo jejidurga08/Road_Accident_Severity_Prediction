@@ -1,4 +1,4 @@
-#📌 Overview
+Road Accident Severity Prediction 🚗💥
 This project leverages Graph Neural Networks (GNNs) and Transformer-based models to predict road accident severity using real-world traffic crash data. By structuring road networks as graphs, the system captures spatial relationships between accident locations, road features, and environmental factors to enhance prediction accuracy.
 
 #📂 Dataset & Features
